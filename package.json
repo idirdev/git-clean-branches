@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/git-clean-branches",
+  "version": "1.0.0",
+  "description": "Clean up merged and stale git branches",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/git-clean-branches.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "git-clean-branches": "bin/cli.js"
+  }
+}
