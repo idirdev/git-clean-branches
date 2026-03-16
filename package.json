@@ -18,5 +18,9 @@
   },
   "bin": {
     "git-clean-branches": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/git-clean-branches",
+  "bugs": {
+    "url": "https://github.com/idirdev/git-clean-branches/issues"
   }
 }
